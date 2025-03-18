@@ -1,26 +1,40 @@
 date,location,type,description,source
+2025-03-18,Various,Job board,Connecting top public sector talent with essential local government jobs,https://www.workforamerica.org/civicmatch
+2025-03-18,New York,Job board,New York State Digital Service Open Positions,https://www.ny.gov/new-york-state-digital-service/we-are-hiring
+2025-03-17,Virginia,Article,NOVA offers $1 million in scholarship aid to unemployed fed workers,https://wtop.com/education/2025/03/nova-offers-1-million-in-scholarship-aid-to-unemployed-fed-workers/
+2025-03-17,Virginia,Article,Federal Layoffs: Resources for displaced workers in Northern Virginia,https://www.insidenova.com/news/arlington/federal-layoffs-resources-for-displaced-workers-in-northern-virginia/article_672d6846-0340-11f0-985f-db1267ec67a6.html
+2025-03-13,Hawaii,Resources,Operation Hire Hawaiʻi (OH-HI),https://dhrd.hawaii.gov/OHHI/
+2025-03-13,Maine,Resources,Resources for Laid Off Federal Workers in Maine,https://www.maine.gov/labor/federalworkers/
+2025-03-13,Massachusetts,Resources,Fed Up? Make a Difference with Team Massachusetts,https://www.mass.gov/federal-workers
+2025-03-13,Michigan,Resources,Resources for Terminated Federal Employees,https://www.michigan.gov/leo/bureaus-agencies/uia/tools/fed-employee-guidance
+2025-03-13,Minnesota,Resources,Resources for Federal Workers Seeking Employment in State Government,https://mn.gov/mmb/careers/search-for-jobs/federal-workers/
+2025-03-13,New Mexico,Resources,New Mexico Resources and Support for Former Federal Employees and Workers,https://www.dws.state.nm.us/FederalWorkerResources
+2025-03-13,New York,Resources,Federal Workers: We Want You,https://www.ny.gov/programs/federal-workers-we-want-you
+2025-03-13,Pennsylvania,Resources,Careers for Federal Employees: Continue Your Public Service with the Commonwealth,https://www.pa.gov/agencies/employment/open-jobs/careers-for-federal-employees.html
+2025-03-13,Rhode Island,Resources,Need Unemployment Insurance? A Guide for Federal Workers,https://dlt.ri.gov/sites/g/files/xkgbur571/files/2025-02/UI%20Guide%20for%20Federal%20Employees.pdf
+2025-03-13,Virginia,Resources,Virginia Has Jobs,https://virginiahasjobs.com/
+2025-03-13,Virginia,Resources,Resources for Impacted Federal Workers,https://www.governor.virginia.gov/constituent-services/federal-employee-resources/
+2025-03-09,Alaska,Resources,Rapid Response,https://jobs.alaska.gov/rr/index.htm
+2025-03-09,California,Resources,Recruitment site specifically for former federal employees,https://workforcalifornia.ca.gov/
+2025-03-09,Colorado,Resources,Resources for Federal Workers,https://cdle.colorado.gov/unemployment/resources-for-federal-workers
+2025-03-09,Connecticut,Resources,Rapid Response / Dislocated Worker Resources (not fed-specific),https://portal.ct.gov/dol/Divisions/Rapid-Response?language=en_US
+2025-03-05,Illinois,Press release,Governor announced two Spring Career Fairs this month targeting former federal workers,https://gov.illinois.gov/news/press-release.30997.html
+2025-03-05,Pennsylvania,Executive order,Filling Critical Public Service Vacancies by Recruiting Federal Government Talent and Expertise,https://pa.gov/content/dam/copapwp-pagov/en/governor/documents/2025-01.pdf
+2025-03-03,California,Executive order,Directs CalHR to create a federal employee resource website,https://www.gov.ca.gov/wp-content/uploads/2025/03/RTO-EO-3.3.25_-GGN-signed.pdf
 2025-03-01,Alabama,Job board,State government jobs in Alabama,https://personnel.alabama.gov/Jobs
 2025-03-01,Alaska,Job board,State government jobs in Alaska,https://jobs.alaska.gov/
-2025-03-09,Alaska,Resources,Rapid Response,https://jobs.alaska.gov/rr/index.htm
 2025-03-01,Arizona,Job board,State government jobs in Arizona,https://www.azstatejobs.gov/jobs/search
 2025-03-01,Arkansas,Job board,State government jobs in Arkansas,https://arcareers.arkansas.gov/
 2025-03-01,California,Job board,State government jobs in California,https://calcareers.ca.gov/
-2025-03-03,California,Executive order,Directs CalHR to create a federal employee resource website,https://www.gov.ca.gov/wp-content/uploads/2025/03/RTO-EO-3.3.25_-GGN-signed.pdf
-2025-03-09,California,Resources,Recruitment site specifically for former federal employees,https://workforcalifornia.ca.gov/
 2025-03-01,Colorado,Job board,State government jobs in Colorado,https://careers.colorado.gov/
-2025-03-09,Colorado,Resources,Resources for Federal Workers,https://cdle.colorado.gov/unemployment/resources-for-federal-workers
 2025-03-01,Connecticut,Job board,State government jobs in Connecticut,https://portal.ct.gov/services/jobs-and-employment/state-job-openings
-2025-03-09,Connecticut,Resources,Rapid Response / Dislocated Worker Resources (not fed-specific),https://portal.ct.gov/dol/Divisions/Rapid-Response?language=en_US
 2025-03-01,Delaware,Job board,State government jobs in Delaware,https://statejobs.delaware.gov/
 2025-03-01,District of Columbia,Job board,State government jobs in DC,https://careers.dc.gov
 2025-03-01,Florida,Job board,State government jobs in Florida,https://jobs.myflorida.com/
 2025-03-01,Georgia,Job board,State government jobs in Georgia,https://dol.georgia.gov/state-local-and-federal-government-jobs
-2025-02-18,Hawaii,Executive order,Operation Hire Hawaii: A Workforce Transition Initiative,https://governor.hawaii.gov/wp-content/uploads/2025/02/2502069_Executive-Order-No.-25-02-Operation-Hire-Hawaii.pdf
 2025-03-01,Hawaii,Job board,State government jobs in Hawai'i,https://jobs.hawaii.gov/careers/
-2025-03-13,Hawaii,Resources,Operation Hire Hawaiʻi (OH-HI),https://dhrd.hawaii.gov/OHHI/
 2025-03-01,Idaho,Job board,State government jobs in Idaho,https://statecareers.idaho.gov/
 2025-03-01,Illinois,Job board,State government jobs in Illinois,https://work4.illinois.gov/
-2025-03-05,Illinois,Press release,Governor announced two Spring Career Fairs this month targeting former federal workers,https://gov.illinois.gov/news/press-release.30997.html
 2025-03-01,Indiana,Job board,State government jobs in Indiana,https://workforindiana.in.gov/
 2025-03-01,Iowa,Job board,State government jobs in Iowa,https://das.iowa.gov/state-employment
 2025-03-01,Kansas,Job board,State government jobs in Kansas,https://admin.ks.gov/offices/personnel-services/jobs
@@ -28,39 +42,26 @@ date,location,type,description,source
 2025-03-01,Kentucky,Job board,State government jobs in Kentucky,https://personnel.ky.gov/join-team-kentucky
 2025-03-01,Louisiana,Job board,State government jobs in Louisiana,https://www.civilservice.louisiana.gov/
 2025-03-01,Maine,Job board,State government jobs in Maine,https://www.maine.gov/bhr/state-jobs
-2025-03-13,Maine,Resources,Resources for Laid Off Federal Workers in Maine,https://www.maine.gov/labor/federalworkers/
-2025-02-14,Maryland,Resources,Maryland Workers Impacted by Recent Federal Actions,https://response.maryland.gov/federalpublicservants/
-2025-02-28,Maryland,Article,Gov. Moore hopes the Trump administration’s loss is Maryland’s gain,https://www.thebaltimorebanner.com/politics-power/state-government/wes-moore-federal-workers-firings-SA3RJ2BURRAXTGP4PBEPR2PFVQ/
 2025-03-01,Maryland,Job board,State government jobs in Maryland,https://dbm.maryland.gov/jobseekers/pages/jobseekershome.aspx
 2025-03-01,Massachusetts,Job board,State government jobs in Massachusetts,https://www.mass.gov/topics/work-for-the-commonwealth
-2025-03-13,Massachusetts,Resources,Fed Up? Make a Difference with Team Massachusetts,https://www.mass.gov/federal-workers
 2025-03-01,Michigan,Job board,State government jobs in Michigan,https://www.michigan.gov/mdcs/state-employment
-2025-03-13,Michigan,Resources,Resources for Terminated Federal Employees,https://www.michigan.gov/leo/bureaus-agencies/uia/tools/fed-employee-guidance
 2025-03-01,Minnesota,Job board,State government jobs in Minnesota,https://mn.gov/mmb/careers/
-2025-03-13,Minnesota,Resources,Resources for Federal Workers Seeking Employment in State Government,https://mn.gov/mmb/careers/search-for-jobs/federal-workers/
 2025-03-01,Mississippi,Job board,State government jobs in Mississippi,https://www.mspb.ms.gov/
 2025-03-01,Missouri,Job board,State government jobs in Missouri,https://mocareers.mo.gov/hiretrue/mo/mocareers/index.html
 2025-03-01,Montana,Job board,State government jobs in Montana,https://statecareers.mt.gov/
 2025-03-01,Nebraska,Job board,State government jobs in Nebraska,https://statejobs.nebraska.gov/
 2025-03-01,Nevada,Job board,State government jobs in Nevada,https://nvjobs.nv.gov/
 2025-03-01,New Hampshire,Job board,State government jobs in New Hampshire,https://www.das.nh.gov/jobsearch/employment.aspx
-2025-02-28,New Jersey,Press release,New Jersey Department of Labor Assists Federal Workers Impacted by Layoffs,https://www.nj.gov/labor/lwdhome/press/2025/20250228_federallayoffs.shtml
 2025-03-01,New Jersey,Job board,State government jobs in New Jersey,https://www.nj.gov/nj/employ/
-2025-02-24,New Mexico,Press release,Gov. Lujan Grisham announces statewide support for laid off federal workers,https://www.governor.state.nm.us/2025/02/24/gov-lujan-grisham-announces-statewide-support-for-laid-off-federal-workers/
 2025-03-01,New Mexico,Job board,State government jobs in New Mexico,https://www.spo.state.nm.us/work-for-new-mexico/
-2025-03-13,New Mexico,Resources,New Mexico Resources and Support for Former Federal Employees and Workers,https://www.dws.state.nm.us/FederalWorkerResources
 2025-03-01,New York,Job board,State government jobs in New York,https://statejobs.ny.gov/
-2025-03-13,New York,Resources,Federal Workers: We Want You,https://www.ny.gov/programs/federal-workers-we-want-you
 2025-03-01,North Carolina,Job board,State government jobs in North Carolina,https://www.nc.gov/working/finding-job
 2025-03-01,North Dakota,Job board,State government jobs in North Dakota,https://www.cnd.nd.gov
 2025-03-01,Ohio,Job board,State government jobs in Ohio,https://careers.ohio.gov/
 2025-03-01,Oklahoma,Job board,State government jobs in Oklahoma,https://oklahoma.gov/omes/omes-careers/
 2025-03-01,Oregon,Job board,State government jobs in Oregon,https://www.oregon.gov/jobs/pages/index.aspx
 2025-03-01,Pennsylvania,Job board,State government jobs in Pennsylvania,https://www.pa.gov/agencies/employment.html
-2025-03-05,Pennsylvania,Executive order,Filling Critical Public Service Vacancies by Recruiting Federal Government Talent and Expertise,https://pa.gov/content/dam/copapwp-pagov/en/governor/documents/2025-01.pdf
-2025-03-13,Pennsylvania,Resources,Careers for Federal Employees: Continue Your Public Service with the Commonwealth,https://www.pa.gov/agencies/employment/open-jobs/careers-for-federal-employees.html
 2025-03-01,Rhode Island,Job board,State government jobs in Rhode Island,https://dlt.ri.gov/individuals/jobseeker-resources/rhode-island-state-and-municipal-jobs
-2025-03-13,Rhode Island,Resources,Need Unemployment Insurance? A Guide for Federal Workers,https://dlt.ri.gov/sites/g/files/xkgbur571/files/2025-02/UI%20Guide%20for%20Federal%20Employees.pdf
 2025-03-01,South Carolina,Job board,State government jobs in South Carolina,https://careers.sc.gov/
 2025-03-01,South Dakota,Job board,State government jobs in South Dakota,https://www.sd.gov/cs?id=services_by_category&category=c83af3f21b3f30101c4fa97ae54bcb8b
 2025-03-01,Tennessee,Job board,State government jobs in Tennesee,https://www.tn.gov/careers.html
@@ -68,12 +69,12 @@ date,location,type,description,source
 2025-03-01,Utah,Job board,State government jobs in Utah,https://dhrm.utah.gov/search-jobs/
 2025-03-01,Vermont,Job board,State government jobs in Vermont,https://careers.vermont.gov/
 2025-03-01,Virginia,Job board,State government jobs in Virginia,https://www.jobs.virginia.gov/
-2025-03-13,Virginia,Resources,Virginia Has Jobs,https://virginiahasjobs.com/
-2025-03-13,Virginia,Resources,Resources for Impacted Federal Workers,https://www.governor.virginia.gov/constituent-services/federal-employee-resources/
-2025-03-17,Virginia,Article,NOVA offers $1 million in scholarship aid to unemployed fed workers,https://wtop.com/education/2025/03/nova-offers-1-million-in-scholarship-aid-to-unemployed-fed-workers/
-2025-03-17,Virginia,Article,Federal Layoffs: Resources for displaced workers in Northern Virginia,https://www.insidenova.com/news/arlington/federal-layoffs-resources-for-displaced-workers-in-northern-virginia/article_672d6846-0340-11f0-985f-db1267ec67a6.html
 2025-03-01,Washington,Job board,State government jobs in Washington,http://careers.wa.gov
 2025-03-01,West Virginia,Job board,State government jobs in West Virginia,https://personnel.wv.gov/empopp/Pages/default.aspx
 2025-03-01,Wisconsin,Job board,State government jobs in Wisconsin,https://wj.wi.gov/
 2025-03-01,Wyoming,Job board,State government jobs in Wyoming,https://ai.wyo.gov/for-job-seekers
-2025-03-18,New York,Job board,New York State Digital Service Open Positions,https://www.ny.gov/new-york-state-digital-service/we-are-hiring
+2025-02-28,Maryland,Article,Gov. Moore hopes the Trump administration’s loss is Maryland’s gain,https://www.thebaltimorebanner.com/politics-power/state-government/wes-moore-federal-workers-firings-SA3RJ2BURRAXTGP4PBEPR2PFVQ/
+2025-02-28,New Jersey,Press release,New Jersey Department of Labor Assists Federal Workers Impacted by Layoffs,https://www.nj.gov/labor/lwdhome/press/2025/20250228_federallayoffs.shtml
+2025-02-24,New Mexico,Press release,Gov. Lujan Grisham announces statewide support for laid off federal workers,https://www.governor.state.nm.us/2025/02/24/gov-lujan-grisham-announces-statewide-support-for-laid-off-federal-workers/
+2025-02-18,Hawaii,Executive order,Operation Hire Hawaii: A Workforce Transition Initiative,https://governor.hawaii.gov/wp-content/uploads/2025/02/2502069_Executive-Order-No.-25-02-Operation-Hire-Hawaii.pdf
+2025-02-14,Maryland,Resources,Maryland Workers Impacted by Recent Federal Actions,https://response.maryland.gov/federalpublicservants/
