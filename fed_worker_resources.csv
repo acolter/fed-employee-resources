@@ -5,14 +5,14 @@ date,location,type,description,source
 2025-03-01,Arizona,Job board,State government jobs in Arizona,https://www.azstatejobs.gov/jobs/search
 2025-03-01,Arkansas,Job board,State government jobs in Arkansas,https://arcareers.arkansas.gov/
 2025-03-01,California,Job board,State government jobs in California,https://calcareers.ca.gov/
-2025-03-03,California,Executive order,"Tacked on to the end of a return-to-work order is a directive for CalHR to ""create a federal employee resource website connecting this newly available talented workforce with current job opportunities, virtual job fairs, virtual job counseling, and create a framework that maps the skills required for state government employment.""",https://www.gov.ca.gov/wp-content/uploads/2025/03/RTO-EO-3.3.25_-GGN-signed.pdf
+2025-03-03,California,Executive order,"Tacked on to the end of a return-to-work order is a directive for CalHR to ""create a federal employee resource website connecting this newly available talented workforce with current job opportunities,"" etc.",https://www.gov.ca.gov/wp-content/uploads/2025/03/RTO-EO-3.3.25_-GGN-signed.pdf
 2025-03-09,California,Resources,Recruitment site specifically for former federal employees,https://workforcalifornia.ca.gov/
 2025-03-01,Colorado,Job board,State government jobs in Colorado,https://careers.colorado.gov/
 2025-03-09,Colorado,Resources,Resources for Federal Workers,https://cdle.colorado.gov/unemployment/resources-for-federal-workers
 2025-03-01,Connecticut,Job board,State government jobs in Connecticut,https://portal.ct.gov/services/jobs-and-employment/state-job-openings
 2025-03-09,Connecticut,Resources,Rapid Response / Dislocated Worker Resources (not fed-specific),https://portal.ct.gov/dol/Divisions/Rapid-Response?language=en_US
 2025-03-01,Delaware,Job board,State government jobs in Delaware,https://statejobs.delaware.gov/
-2025-03-01,District of Columbia,Job board,State government jobs in DC,https://careers.dc.gov/psc/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant
+2025-03-01,District of Columbia,Job board,State government jobs in DC,https://careers.dc.gov
 2025-03-01,Florida,Job board,State government jobs in Florida,https://jobs.myflorida.com/
 2025-03-01,Georgia,Job board,State government jobs in Georgia,https://dol.georgia.gov/state-local-and-federal-government-jobs
 2025-02-18,Hawaii,Executive order,Operation Hire Hawaii: A Workforce Transition Initiative: Fast-tracks hiring to help the state employ newly laid-off federal workers. Accelerates hiring so qualified candidates can receive a conditional job offer within 14 days.,https://governor.hawaii.gov/wp-content/uploads/2025/02/2502069_Executive-Order-No.-25-02-Operation-Hire-Hawaii.pdf
@@ -52,7 +52,7 @@ date,location,type,description,source
 2025-03-01,New York,Job board,State government jobs in New York,https://statejobs.ny.gov/
 2025-03-13,New York,Resources,Federal Workers: We Want You,https://www.ny.gov/programs/federal-workers-we-want-you
 2025-03-01,North Carolina,Job board,State government jobs in North Carolina,https://www.nc.gov/working/finding-job
-2025-03-01,North Dakota,Job board,State government jobs in North Dakota,https://www.cnd.nd.gov/psc/recruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U
+2025-03-01,North Dakota,Job board,State government jobs in North Dakota,https://www.cnd.nd.gov
 2025-03-01,Ohio,Job board,State government jobs in Ohio,https://careers.ohio.gov/
 2025-03-01,Oklahoma,Job board,State government jobs in Oklahoma,https://oklahoma.gov/omes/omes-careers/
 2025-03-01,Oregon,Job board,State government jobs in Oregon,https://www.oregon.gov/jobs/pages/index.aspx
@@ -71,8 +71,8 @@ date,location,type,description,source
 2025-03-13,Virginia,Resources,Virginia Has Jobs,https://virginiahasjobs.com/
 2025-03-13,Virginia,Resources,Resources for Impacted Federal Workers,https://www.governor.virginia.gov/constituent-services/federal-employee-resources/
 2025-03-17,Virginia,Article,NOVA offers $1 million in scholarship aid to unemployed fed workers,https://wtop.com/education/2025/03/nova-offers-1-million-in-scholarship-aid-to-unemployed-fed-workers/
-2025-03-17,Virginia,Article,Federal Layoffs: Resources for displaced workers in Northern Virginia,https://www.insidenova.com/news/arlington/federal-layoffs-resources-for-displaced-workers-in-northern-virginia/article_672d6846-0340-11f0-985f-db1267ec67a6.html?emci=ebc9bcb2-5803-f011-90cd-0022482a9fb7&emdi=b32afe1c-e803-f011-90cd-0022482a9fb7&ceid=345048
+2025-03-17,Virginia,Article,Federal Layoffs: Resources for displaced workers in Northern Virginia,https://www.insidenova.com/news/arlington/federal-layoffs-resources-for-displaced-workers-in-northern-virginia/article_672d6846-0340-11f0-985f-db1267ec67a6.html
 2025-03-01,Washington,Job board,State government jobs in Washington,http://careers.wa.gov
 2025-03-01,West Virginia,Job board,State government jobs in West Virginia,https://personnel.wv.gov/empopp/Pages/default.aspx
-2025-03-01,Wisconsin,Job board,State government jobs in Wisconsin,https://wj.wi.gov/psc/wisjobs/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U&
+2025-03-01,Wisconsin,Job board,State government jobs in Wisconsin,https://wj.wi.gov/
 2025-03-01,Wyoming,Job board,State government jobs in Wyoming,https://ai.wyo.gov/for-job-seekers
