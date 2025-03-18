@@ -1,7 +1,7 @@
 # fed-employee-resources
 Resources for unemployed federal workers
 
-A small hand-curated CSV tracking the resources established for federal workers and contractors fired or RIF'd or otherwise separated from government service during the Trump administration. 
+A small hand-curated CSV tracking the resources established for federal workers and contractors fired or RIF'd or otherwise separated from government service during the Trump administration. Contains links to state government job boards for all 50 states plus DC. 
 
 ## Context
 This data is being sourced by me by hand from multiple news sources and press releases. It is likely this list is incomplete and definitely out of date as soon as I update it. Feel free to suggest additions. 
