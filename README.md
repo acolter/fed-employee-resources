@@ -1,5 +1,5 @@
 # fed-employee-resources
-Resources for unemployed federal workers
+Resources for unemployed federal workers.
 
 A small hand-curated CSV tracking the resources established for federal workers and contractors fired or RIF'd or otherwise separated from government service during the Trump administration. Contains links to state government job boards for all 50 states plus DC. 
 
@@ -10,6 +10,6 @@ This data is being sourced by me by hand from multiple news sources and press re
 This is a simple CSV that I will update manually, as time allows, with the following columns: 
 - date (in yyyy-mm-dd format): The date that the article, press release or executive order was either first published (if known) or first retrieved
 - location: the U.S. state where the resource is provided 
-- type: e.g., article, website, executive order, press releaase
+- type: e.g., article, website, executive order, press release
 - description: a short description of the resource
 - source: a link to a source URL
